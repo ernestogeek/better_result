@@ -8,6 +8,7 @@ This repository contains an example of AstroJS application that is deployed on D
    - Branch: `main`
    - Build path: `/astro`
 
+
 2. **Add Environment Variables**:
 - Navigate to the "Environments" tab and add the following variable:
    ```plaintext
